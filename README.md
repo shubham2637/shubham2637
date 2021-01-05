@@ -9,7 +9,7 @@ I am Shubham Singh, a Full Stack developer! I like experimenting with new techno
 <img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="30%" height="30%"/>
   
 ### More About Me:
-- 💻 Working as a software engineer over at **[Tremendo](https://tremendo.in)**
+- 💻 Working as a software engineer over at **[Tercept](https://www.tercept.com/)**
 -   🔭 I’m currently working on Python and Java
 -   🌱 I’m currently learning ReactJS 
 -   🤔 I’m looking for help with frontend
