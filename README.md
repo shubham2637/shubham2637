@@ -1,16 +1,48 @@
-### Hi there 👋
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+</p>
+<br> -->
 
-<!--
-**shubham2637/shubham2637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋, I'm [Shubham](https://github.com/shubham2637)
 
-Here are some ideas to get you started:
+I am Shubham Singh, a Full Stack developer! I like experimenting with new technologies, building small projects, and occassionally joining hackathons.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="30%" height="30%"/>
+  
+### More About Me:
+- 💻 Working as a software engineer over at **[Tremendo](https://tremendo.in)**
+-   🔭 I’m currently working on Python and Java
+-   🌱 I’m currently learning ReactJS 
+-   🤔 I’m looking for help with frontend
+-   💬 Ask me about anything, I am happy to help
+-   📫 How to reach me: [Mail](mailto:shubham37@outlook.com) [Linkdin](https://www.linkedin.com/in/shubham2637/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools:
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2637&langs_count=8" />
+
+
+<!-- ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham2637&theme=gotham&show_icons=true&include_all_commits=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2637&layout=compact)]()
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubham2637)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham2637&theme=gotham&show_icons=true&include_all_commits=true" />
+
+</p>
+<p align="center">
+  <a href='mailto:shubham37@outlook.com'>
+    <b><i>Let's connect! </i></b>
+  </a>
+ </p>
+ <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/shubham2637/count.svg" />
+</p>
