@@ -25,11 +25,13 @@ I am Shubham Singh, a Full Stack developer! I like experimenting with new techno
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2637&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2637&langs_count=10" />
 
+<br>
 
+<br>
 <!-- ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham2637&theme=gotham&show_icons=true&include_all_commits=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2637&layout=compact)]()
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubham2637)](https://github.com/anuraghazra/github-readme-stats) -->
