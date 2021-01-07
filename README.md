@@ -10,7 +10,7 @@ I am Shubham Singh, a Full Stack developer! I like experimenting with new techno
   
 ### More About Me:
 - 💻 Working as a software engineer over at **[Tremendo.in](https://tremendo.in)**
--   🔭 I’m currently working on Python and Java
+-   🔭 I’m currently working on Python ,Django, AWS , SQL and Java
 -   🌱 I’m currently learning ReactJS 
 -   🤔 I’m looking for help with frontend
 -   💬 Ask me about anything, I am happy to help
