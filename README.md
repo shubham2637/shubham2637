@@ -13,7 +13,6 @@ I am Shubham Singh, a Full Stack developer! I like experimenting with new techno
 -   🔭 I’m currently working on Python ,Django, AWS , SQL and Java
 -   🌱 I’m currently learning Kafka and Redis.
 -   🤔 I’m looking for help with frontend
--   💬 Ask me about anything, I am happy to help
 -   📫 How to reach me: [Mail](mailto:shubham37@outlook.com) [Linkdin](https://www.linkedin.com/in/shubham2637/)
 
 
