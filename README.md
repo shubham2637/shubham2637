@@ -10,8 +10,8 @@ I am Shubham Singh, a Full Stack developer! I like experimenting with new techno
   
 ### More About Me:
 - 💻 Working as a software engineer over at **[Kapture CRM ](https://www.kapturecrm.com/)**
--   🔭 I’m currently working on Python ,Django, AWS , SQL and Java
--   🌱 I’m currently learning Kafka and Redis.
+-   🔭 I’m currently working on PJava , SpringBoot and Kafka.
+-   🌱 I’m currently learning Microservies and Redis.
 -   🤔 I’m looking for help with frontend
 -   📫 How to reach me: [Mail](mailto:shubham37@outlook.com) [Linkdin](https://www.linkedin.com/in/shubham2637/)
 
