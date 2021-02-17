@@ -3,15 +3,15 @@
 </p>
 <br> -->
 
-## Hey 👋, I'm [Shubham](https://github.com/shubham2637)
+## Hey 👋, I'm [Shubham](https://www.linkedin.com/in/shubham2637/)
 
 I am Shubham Singh, a Full Stack developer! I like experimenting with new technologies, building small projects, and occassionally joining hackathons.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="30%" height="30%"/>
   
 ### More About Me:
 - 💻 Working as a software engineer over at **[Kapture CRM ](https://www.kapturecrm.com/)**
--   🔭 I’m currently working on PJava , SpringBoot and Kafka.
--   🌱 I’m currently learning Microservies and Redis.
+-   🔭 I’m currently working on Java , SpringBoot,Redis and Kafka.
+-   🌱 I’m currently experimenting with Microservies.
 -   🤔 I’m looking for help with frontend
 -   📫 How to reach me: [Mail](mailto:shubham37@outlook.com) [Linkdin](https://www.linkedin.com/in/shubham2637/)
 
@@ -26,7 +26,7 @@ I am Shubham Singh, a Full Stack developer! I like experimenting with new techno
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2637&langs_count=11" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2637&langs_count=5" />
 
 <br>
 
