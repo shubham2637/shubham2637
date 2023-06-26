@@ -9,9 +9,9 @@ I am Shubham Singh, a Full Stack developer! I like experimenting with new techno
 <img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="30%" height="30%"/>
   
 ### More About Me:
-- 💻 Working as a software engineer over at **[CRED - Happay](https://www.happay.com/)**
--   🔭 I’m currently working on Python ,Django ,Postgres and Redis.
--   🌱 I’m currently experimenting with Django and VSCode.
+- 💻 Working as a software engineer over at **[Bookee](https://www.bookeeapp.com/)**
+-   🔭 I’m working on Python,Django , Postgres and Redis.
+-   🌱 I’m currently experimenting with AWS Step functions.
 -   🌱 I have worked with Java,Springboot,GCP and AWS.
 -   🤔 I’m looking for help with frontend
 -   📫 How to reach me: [Mail](mailto:shubham37@outlook.com) [Linkdin](https://www.linkedin.com/in/shubham2637/)
